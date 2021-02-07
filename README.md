@@ -1,4 +1,4 @@
 # UCI-GO
 
-### UCI-ASSIGNMENT
-go run <filename>
+### UCI-ASSIGNMENT 1
+go run *filename* 
